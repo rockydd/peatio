@@ -92,7 +92,7 @@ Insert the following lines into your bitcoin.conf, and replce with your username
 
     ~/Library/Application\ Support/Bitcoin/bitcoin.conf
 
-**For Linxu**
+**For Linux**
 
     ~/.bitcoin/bitcoin.conf
 
